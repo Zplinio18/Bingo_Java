@@ -14,11 +14,7 @@ import java.util.Scanner;
 public class Bingo {
     
     public static void inicioJogo(){
-        System.out.println("----------------------------------------------------------------------------\n"
-                                     + "Nome: Pedro Lucas Botelho Freitas\n"
-                                     + "Matricula: 202135040\n"
-                                     + "-----------------------------------------------------------------------------\n\n"
-                                     + "Bem vindo ao Bingo!");
+        System.out.println("Bem vindo ao Bingo!");
         }
     public static void main(String[] args) {
             Scanner teclado = new Scanner(System.in);
